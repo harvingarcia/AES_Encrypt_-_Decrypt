@@ -1,5 +1,5 @@
 # AES_Encrypt_and_Decrypt
-Script python for Encrypt confidential information with the AES Cipher Metode.
+Scripts python for Encrypt messages or confidential information with the AES Cipher Metode.
 
 Is necesary install PyCryptodome
 Example:
