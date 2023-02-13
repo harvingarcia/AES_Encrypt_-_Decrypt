@@ -1,6 +1,7 @@
 # AES_Encrypt_-_Decrypt
-Python Script's for Encript information (Files) with AES Cipher Metode
+Script python for Encrypt confidential information with the AES Cipher Metode.
 
 Is necesary install PyCryptodome
+Example:
 pip install pycryptodome
 
